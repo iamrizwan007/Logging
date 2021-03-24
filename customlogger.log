@@ -1,0 +1,5 @@
+06/032021 02:57:32 AM CRITICAL filehandlerlogger critical message
+06/032021 02:57:32 AM ERROR filehandlerlogger error message
+06/032021 02:57:32 AM WARNING filehandlerlogger warning message
+06/032021 02:57:32 AM INFO filehandlerlogger info message
+06/032021 02:57:32 AM DEBUG filehandlerlogger debug message

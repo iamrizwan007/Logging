@@ -1,0 +1,10 @@
+logging.basicConfig(filename='log.txt',level=logging.WARNING)
+logging.basicConfig(filename='log.txt',level=logging.30)
+#filename create, if already, append
+
+functions:
+logging.critical(message)
+logging.error(message)
+logging.warning(message)
+logging.info(message)
+logging.debug(message)
